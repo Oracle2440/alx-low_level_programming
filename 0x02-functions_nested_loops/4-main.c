@@ -5,7 +5,7 @@
  *
  * Return: Always 0
  */
-intmain(void);
+int main(void);
 {
 	int r;
 
